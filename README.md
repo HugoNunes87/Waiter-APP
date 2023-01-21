@@ -20,10 +20,13 @@
 
  ### ✅ Demonstração Mobile 📲
 <p align="center">
-   
+   <img src="web/.github/demonstraçãoAPP.gif"> 
 </p>
 
 ### ✅ Demonstração WEB 💻
+<p align="center">
+   <img src="web/.github/demonstraçãoWEB.gif"> 
+</p>
 
 
 ### ⚙ Pré-requisitos
